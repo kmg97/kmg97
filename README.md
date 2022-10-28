@@ -2,12 +2,11 @@
   <b><h2>🥳 Personal info</h2></b>
 
   <pre style="background-color:transparent;">
-    🔥 Passionate about front-end development
-    📩 you can reach me 👉 minku4820@gmail.com
-    📰 My portfolio WebSite 👉 <a href="https://kmg-portfolio.com">https://kmg-portfolio.com</a>
-  </pre>
+🔥 Passionate about front-end development
+📩 you can reach me 👉 minku4820@gmail.com
+📰 My portfolio WebSite 👉 <a href="https://kmg-portfolio.com">https://kmg-portfolio.com</a></pre>
 
-  <h2>🛠Tech Stacks</h2>
+  <h2>📋 Studying</h2>
 
   <h3>Front-End</h3>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
