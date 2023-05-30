@@ -2,7 +2,7 @@
   <b><h2>🥳 Personal info</h2></b>
 
   <pre style="background-color:transparent;">
-🔥 Passionate about front-end development
+🔥 Passionate about web development
 📩 you can reach me 👉 minku4820@gmail.com
 📰 My portfolio WebSite 👉 <a href="https://kmg-portfolio.com">https://kmg-portfolio.com</a></pre>
 
