@@ -36,6 +36,6 @@
 </div>
 <div>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimmingyu0&layout=compact"><br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=kimmingyu0&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmg97&layout=compact"><br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=kmg97&show_icons=true">
 </div>
